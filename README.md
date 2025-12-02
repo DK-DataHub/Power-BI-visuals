@@ -10,6 +10,13 @@ The files demonstrate practice with data modeling, DAX, and visualization techni
 - Creating DAX measures
 - Designing interactive dashboards
 
+## 📊 Sample Output
+
+Here’s a snapshot of one of my practice dashboards:
+
+![Power BI Dashboard](Pictures/Power-BI-Output.png)
+
+
 ## 🎯 Purpose
 These files are uploaded to track my progress in learning Power BI.  
 They are practice visualizations, not production-ready business reports.
