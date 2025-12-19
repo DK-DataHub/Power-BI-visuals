@@ -14,8 +14,8 @@ The files demonstrate practice with data modeling, DAX, and visualization techni
 
 Here’s the snapshots of my practice dashboards:
 
-![Power BI Dashboards](Power-BI-Output.png)
-![Power BI Dashboards](Power-BI-Output(2).png)
+![Power BI Dashboard](Power-BI-Output.png)
+![Power BI Dashboard](Power-BI-Output(2).png)
 
 
 ## 🎯 Purpose
