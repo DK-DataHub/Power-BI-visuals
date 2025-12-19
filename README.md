@@ -10,11 +10,12 @@ The files demonstrate practice with data modeling, DAX, and visualization techni
 - Creating DAX measures
 - Designing interactive dashboards
 
-## 📊 Sample Output
+## 📊 Sample Outputs
 
-Here’s a snapshot of one of my practice dashboards:
+Here’s the snapshots of my practice dashboards:
 
-![Power BI Dashboard](Power-BI-Output.png)
+![Power BI Dashboards](Power-BI-Output.png)
+![Power BI Dashboards](Power-BI-Output(2).png)
 
 
 ## 🎯 Purpose
